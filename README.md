@@ -16,5 +16,8 @@ Avaliação de bandas:
 
 ![](https://github.com/DanielTomazi/ScreenSound/blob/main/ImagensDemo/AvaliandoBanda-demo.png)
 ********************
+Exibição da média de avaliações de uma banda:
+
+![Exibição de média](https://github.com/DanielTomazi/ScreenSound/blob/main/ImagensDemo/ExibeM%C3%A9dia-demo.png)
 
 
