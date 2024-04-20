@@ -1,0 +1,28 @@
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\bin\Debug\net8.0\C# Projeto Musical.exe
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\bin\Debug\net8.0\C# Projeto Musical.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\bin\Debug\net8.0\C# Projeto Musical.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\bin\Debug\net8.0\C# Projeto Musical.dll
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\bin\Debug\net8.0\C# Projeto Musical.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\obj\Debug\net8.0\C# Projeto Musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\obj\Debug\net8.0\C# Projeto Musical.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\obj\Debug\net8.0\C# Projeto Musical.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\obj\Debug\net8.0\C# Projeto Musical.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\obj\Debug\net8.0\C# Projeto Musical.dll
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\obj\Debug\net8.0\refint\C# Projeto Musical.dll
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\obj\Debug\net8.0\C# Projeto Musical.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\obj\Debug\net8.0\C# Projeto Musical.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\C# Projeto Musical\obj\Debug\net8.0\ref\C# Projeto Musical.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\bin\Debug\net8.0\C# Projeto Musical.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\bin\Debug\net8.0\C# Projeto Musical.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\bin\Debug\net8.0\C# Projeto Musical.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\bin\Debug\net8.0\C# Projeto Musical.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\bin\Debug\net8.0\C# Projeto Musical.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\obj\Debug\net8.0\C# Projeto Musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\obj\Debug\net8.0\C# Projeto Musical.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\obj\Debug\net8.0\C# Projeto Musical.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\obj\Debug\net8.0\C# Projeto Musical.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\obj\Debug\net8.0\C# Projeto Musical.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\obj\Debug\net8.0\refint\C# Projeto Musical.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\obj\Debug\net8.0\C# Projeto Musical.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\obj\Debug\net8.0\C# Projeto Musical.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Screen Sound\obj\Debug\net8.0\ref\C# Projeto Musical.dll
