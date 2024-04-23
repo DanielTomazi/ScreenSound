@@ -1,4 +1,4 @@
-# ScreenSound
+# Screen Sound Application
 Código back-end criado utilizando C#/.NET que consiste em um software projetado para uma plataforma de streaming de músicas. O mesmo teve suas funcionalidades testadas via terminal e cumpre 100% com a proposta estabelecida, seguindo inclusive as propostas de clean-code. A seguir, na documentação do README, irei ilustrar cada uma das funcionalidades que foram executadas e testadas através do visual studio code. (Seguirei trabalhando nessa aplicação, até como forma de trabalhar minhas habilidades na linguagem C#, por tanto o código está sujeito a constantes alterações, irei atualizando o README conforme as mudanças).
 
 Exemplo ilustrativo parcial do código:
